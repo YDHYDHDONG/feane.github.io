@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    border: 0;
+}
+#nav-bar{
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: cover;
+    background-attachment: fixed;
+}
+#menu-bar{
+    color: aliceblue;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+#item{
+    color: aliceblue;
+
+}
